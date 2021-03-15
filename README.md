@@ -1,2 +1,2 @@
-# Oblig4
+# IN1010
 IN1010 - oblig4
