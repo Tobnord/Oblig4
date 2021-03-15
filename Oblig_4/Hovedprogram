@@ -1,0 +1,11 @@
+class Legesystem{
+
+public static void main(String[] args) {
+    
+    public Hovedprogram(){
+        //Må starte en while-løkke for brukeren
+    }
+
+    public nyLege()
+}
+}
